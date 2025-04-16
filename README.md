@@ -23,8 +23,5 @@ To enhance medical X-ray images using a GAN model and evaluate performance using
 3. Run `psnr_ssim_analysis.py` to get image quality scores
 4. Open Power BI Dashboard with `Medical_Dashboard.pbix`
 
-## 📸 Dashboard Preview
-*(Insert image here)*
-
 ## 🤝 Let's Connect
 Made by Ridhi Kashyap – aspiring Data Scientist & AI enthusiast.
